@@ -1,0 +1,5 @@
+streamlit==1.25.0          # Interface web interativa
+pandas==2.1.0              # Manipulação de séries temporais e DataFrames
+numpy==1.26.0              # Cálculos numéricos e estatísticos
+yfinance==0.2.27           # Dados de mercado do Yahoo Finance
+requests==2.31.0           # Chamadas HTTP para APIs (ExchangeRate, Frankfurter)
